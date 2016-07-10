@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">"Modulo3"</string>
+    <string name="login_username">Username</string>
+    <string name="username_hint">Enter your username</string>
+    <string name="login_password">password</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="login_button">login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_logo">main logo</string>
+    <string name="username">Username</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="new_post">New Post</string>
+</resources>
